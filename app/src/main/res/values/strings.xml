@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="button1">Color</string>
+    <string name="button2">Text Show</string>
+    <string name="button3">Toast Show</string>
+    <string name="radioButton1">Color</string>
+    <string name="radioButton2">Text Show</string>
+    <string name="radioButton3">Toast</string>
+</resources>
